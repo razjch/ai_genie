@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+psycopg2-binary
+cryptography
+openai
+pandas
+plotly
+matplotlib
