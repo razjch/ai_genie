@@ -13,7 +13,7 @@ def encrypt_text(text: str) -> str:
     return fernet.encrypt(bytes(text, 'utf-8')).decode('utf-8')
 
 
-#print(encrypt_text('edpfalcon!'))
+#print(encrypt_text(''))
 
 
 def decrypt_text(text: str) -> str:
